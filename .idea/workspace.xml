@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfb681e9-4842-4f58-b832-c8a6437e22d3" name="Changes" comment="Added to website.">
-      <change afterPath="$PROJECT_DIR$/assets/images/rockjack-brand.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +57,7 @@
       <updated>1692973054836</updated>
       <workItem from="1692973055869" duration="2307000" />
       <workItem from="1692975387424" duration="5929000" />
-      <workItem from="1693002670051" duration="1549000" />
+      <workItem from="1693002670051" duration="1570000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1692977933335</created>
@@ -131,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693003590828</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added to website.">
+      <created>1693004490478</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693004490478</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
