@@ -2,7 +2,7 @@ main:
   - title: "Blog"
     url: /posts/
   - title: "Pricing"
-    url: /categories/
+    url: /pricing/
   - title: "About"
     url: /about/
   - title: "Careers"
