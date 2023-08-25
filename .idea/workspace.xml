@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb681e9-4842-4f58-b832-c8a6437e22d3" name="Changes" comment="Added About page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bfb681e9-4842-4f58-b832-c8a6437e22d3" name="Changes" comment="Added to website.">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
       <updated>1692973054836</updated>
       <workItem from="1692973055869" duration="2307000" />
       <workItem from="1692975387424" duration="5929000" />
-      <workItem from="1693002670051" duration="753000" />
+      <workItem from="1693002670051" duration="905000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1692977933335</created>
@@ -116,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693003049003</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added to website.">
+      <created>1693003442157</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693003442157</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +133,7 @@
     <MESSAGE value="Changed image on front page" />
     <MESSAGE value="Added Career page" />
     <MESSAGE value="Added About page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added About page" />
+    <MESSAGE value="Added to website." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added to website." />
   </component>
 </project>
