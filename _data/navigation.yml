@@ -6,6 +6,4 @@ main:
   - title: "About"
     url: /about/
   - title: "Careers"
-    url: /about/
-  - title: "Test Link"
-    url: /404/
+    url: /careers/
