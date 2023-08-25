@@ -28,12 +28,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+paginate: 5
 
 # Build settings
 remote-theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
